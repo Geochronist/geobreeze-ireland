@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Papers
-nav_order: 1
+nav_order: 4
 has_children: false
 ---
 <!-- markdownlint-disable MD014 MD022 MD025 MD033 MD040 -->

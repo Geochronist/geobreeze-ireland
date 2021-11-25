@@ -1,7 +1,7 @@
 ---
 layout: default
 title: History
-nav_order: 1
+nav_order: 2
 has_children: false
 ---
 <!-- markdownlint-disable MD014 MD022 MD025 MD033 MD040 -->

@@ -16,4 +16,4 @@ has_children: false
 
 ---
 
-Next: [History >>](history.md)
+Next: [History >>](docs/history.md)

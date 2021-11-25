@@ -13,3 +13,7 @@ has_children: false
 {:toc}
 
 ---
+
+---
+
+Next: [Data >>](data.md)

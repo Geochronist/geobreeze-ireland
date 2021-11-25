@@ -14,6 +14,10 @@ has_children: false
 
 ---
 
+## 2021
+
+* [Coughlan *et al.*, 2021](https://www.sciencedirect.com/science/article/pii/S0278434321002302){: .btn .btn-blue }){: .btn .btn-blue } A new seabed mobility index for the Irish Sea: Modelling seabed shear stress and classifying sediment mobilisation to help predict erosion, deposition, and sediment distribution
+
 ## 2020
 
 * [Coughlan *et al.*, 2020](https://www.tandfonline.com/doi/full/10.1080/17445647.2020.1758811){: .btn .btn-blue } Geological and geotechnical constraints in the Irish Sea for offshore renewable energy

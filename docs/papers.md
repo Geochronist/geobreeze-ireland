@@ -24,6 +24,8 @@ has_children: false
   * A new seabed mobility index for the Irish Sea: Modelling seabed shear stress and classifying sediment mobilisation to help predict erosion, deposition, and sediment distribution
   * *Continental Shelf Research* **229** [10.1016/j.csr.2021.104574](https://doi.org/10.1016/j.csr.2021.104574){:target="_blank"} 
 
+---
+
 ## 2020
 
 * [Coughlan *et al.*, 2020](https://www.tandfonline.com/doi/full/10.1080/17445647.2020.1758811){:target="_blank"}
@@ -38,15 +40,20 @@ has_children: false
   * Geological seabed stability model for informing Irish offshore renewable energy opportunities
   * *Advances in Geosciences* **54**, 55-65 [10.5194/adgeo-54-55-2020](https://doi.org/10.5194/adgeo-54-55-2020){:target="_blank"}
 
+---
+
 ## 2019
 
 * [Coughlan *et al.*, 2019](https://link.springer.com/article/10.1007%2Fs00367-019-00569-z){:target="_blank"} 
   * Stratigraphic model of the Quaternary sediments of the Western Irish Sea Mud Belt from core, geotechnical and acoustic data
   * *Geo-Marine Letters* **39**, 227-237 [10.1007/s00367-019-00569-z](https://doi.org/10.1007/s00367-019-00569-z){:target="_blank"}
 
+---
+
 ## 2015
 
 * [Coughlan *et al.*, 2015](https://www.sciencedirect.com/science/article/abs/pii/S2213305415300060){:target="_blank"} 
   * Record of anthropogenic impact on the Western Irish Sea mud belt
   * *Anthropocene* **9**, 56-59 [10.1016/j.ancene.2015.06.001](https://doi.org/10.1016/j.ancene.2015.06.001){:target="_blank"}
+
 ---

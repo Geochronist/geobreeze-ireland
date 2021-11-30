@@ -16,7 +16,11 @@ has_children: false
 
 ## 2021
 
-* [Coughlan *et al.*, 2021](https://www.sciencedirect.com/science/article/pii/S0278434321002302){: .btn .btn-blue }){: .btn .btn-blue } A new seabed mobility index for the Irish Sea: Modelling seabed shear stress and classifying sediment mobilisation to help predict erosion, deposition, and sediment distribution
+* [Creane *et al.*, 2021](https://www.sciencedirect.com/science/article/pii/S027277142100500X){: .btn .btn-blue } The Irish Sea bed load parting zone: Is it a mid-sea hydrodynamic phenomenon or a geological theoretical concept?
+  *  *Estuarine, Coastal and Shelf Science* **263** [10.1016/j.ecss.2021.107651](https://doi.org/10.1016/j.ecss.2021.107651) 
+
+* [Coughlan *et al.*, 2021](https://www.sciencedirect.com/science/article/pii/S0278434321002302){: .btn .btn-blue } A new seabed mobility index for the Irish Sea: Modelling seabed shear stress and classifying sediment mobilisation to help predict erosion, deposition, and sediment distribution
+  * *Continental Shelf Research* **229** [10.1016/j.csr.2021.104574](https://doi.org/10.1016/j.csr.2021.104574) 
 
 ## 2020
 

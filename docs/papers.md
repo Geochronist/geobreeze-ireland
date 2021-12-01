@@ -40,6 +40,10 @@ has_children: false
   * Geological seabed stability model for informing Irish offshore renewable energy opportunities
   * *Advances in Geosciences* **54**, 55-65 [10.5194/adgeo-54-55-2020](https://doi.org/10.5194/adgeo-54-55-2020){:target="_blank"}
 
+* [Tóth *et al.*, 2020](https://onlinelibrary.wiley.com/doi/10.1002/jqs.3189){:target="_blank"}
+  * Geomorphological and seismostratigraphic evidence for multidirectional polyphase glaciation of the northern Celtic Sea
+  * *Journal of Quaternary Sciences* **35-3**, 465-478 [10.1002/jqs.3189](https://doi.org/10.1002/jqs.3189){:target="_blank"}
+
 ---
 
 ## 2019

@@ -1,0 +1,564 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S027277142100500X">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0272-7714"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Creane</foaf:surname>
+                        <foaf:givenName>Shauna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>O'Shea</foaf:surname>
+                        <foaf:givenName>Michael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Coughlan</foaf:surname>
+                        <foaf:givenName>Mark</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Murphy</foaf:surname>
+                        <foaf:givenName>Jimmy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Bed load parting</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Hydrodynamics</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>Irish Sea</dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Modelling</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Morphodynamics</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Sediment transport</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>The Irish Sea bed load parting zone: Is it a mid-sea hydrodynamic phenomenon or a geological theoretical concept?</dc:title>
+        <dcterms:abstract>On tidally-dominated shelf seas, hydrodynamic flow exerts shear stress on the seabed, inducing sediment transport and seabed evolution. Net sediment transport pathways and associated bed load partings zones (the ‘head’ of sediment transport pathways) are important elements of this sediment dispersal process. A robust comprehension of these dynamics on a local and regional scale are crucial for a range of offshore activities, including the rapidly growing offshore renewable energy industry. Previous studies infer a bedload parting zone (BLP) in the central Irish Sea, yet this predominantly bedform-derived BLP remains to be fully supported by underlying hydrodynamics. This study reviews how sediment transport pathways in the Irish Sea are defined to date, investigates whether a hydrodynamic regime capable of supporting this inferred BLP exists, and if proven, aims to elucidate its origin. Tidal asymmetry indicators, derived from the phase and amplitude relationships of numerically modelled M₂ and M₄ tidal constituents, reveal the existence of a symmetrical tidal zone in the proximity of the inferred BLP. New numerically modelled residual tidal current and bed shear stress vectors reinforce the presence of this distinct tidal character change and further reveal strong opposing tidal flows extending from this region, thus supporting the presence of a tidal flow capable of producing divergent bedload patterns. Analysis of tidal propagation through the Irish Sea Basin concludes that the origin of the BLP is mainly attributed to the intersection of the north and south tidal fronts at an inclined angle due to Coriolis Forcing and coastline interactions. Minor factors impacting the shape and location of the BLP are the change in tidal character at (a) abrupt bathymetry changes, (b) headlands and intricate coastline topography, and (c) large-scale constrictions. Further investigation into localised morphodynamics is needed. These findings are highly valuable to efficient marine spatial planning, underpinning a movement towards a climate resilient economy. The integrated approach used in this body of work can be applied to tidally-dominated continental shelves beyond the Irish Sea.</dcterms:abstract>
+        <dc:date>December 5, 2021</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S027277142100500X</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>107651</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0272-7714">
+        <prism:volume>263</prism:volume>
+        <dc:title>Estuarine, Coastal and Shelf Science</dc:title>
+        <dc:identifier>DOI 10.1016/j.ecss.2021.107651</dc:identifier>
+        <dcterms:alternative>Estuarine, Coastal and Shelf Science</dcterms:alternative>
+        <dc:identifier>ISSN 0272-7714</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0278434321002302">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0278-4343"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Coughlan</foaf:surname>
+                        <foaf:givenName>Mark</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guerrini</foaf:surname>
+                        <foaf:givenName>Marco</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Creane</foaf:surname>
+                        <foaf:givenName>Shauna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>O'Shea</foaf:surname>
+                        <foaf:givenName>Michael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ward</foaf:surname>
+                        <foaf:givenName>Sophie L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Van Landeghem</foaf:surname>
+                        <foaf:givenName>Katrien J.J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Murphy</foaf:surname>
+                        <foaf:givenName>Jimmy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Doherty</foaf:surname>
+                        <foaf:givenName>Paul</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Irish Sea</dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Modelling</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Classification</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Disturbance</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Irish sea</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Mobilisation</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Sediment</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>A new seabed mobility index for the Irish Sea: Modelling seabed shear stress and classifying sediment mobilisation to help predict erosion, deposition, and sediment distribution</dc:title>
+        <dcterms:abstract>The seafloor is increasingly being used for siting renewable energy and telecommunication infrastructure as well as supporting key fisheries and biodiversity. Understanding seabed stability and sediment dynamics is, therefore, a fundamental need for offshore engineering and geoscience and biological studies. In this study we aim to quantify the levels of sediment mobility in the Irish Sea: an area of increasing socio-economic interest and subsequent seabed pressures. The temporal and spatial interaction between bathymetry, hydrodynamics and seabed sediments leads to a complex pattern of erosion, bedload transport and deposition which can affect seabed infrastructure and modify habitats. Information on current and wave conditions were obtained from numerical modelling to assess their role in generating seabed hydrodynamic conditions. These outputs were coupled with observed seabed grain-size data to predict the exceedance of sediment mobility thresholds by bed shear stress values for a period of one year according to empirical formulae. Exceedance frequency values were used to calculate a number of sediment disturbance and mobility indexes to allow for a robust assessment of sediment dynamics. Sediment in the Irish sea, on average, is being mobilised 35% of the time during the year, with 35% of the spatial area studied being mobilised over 50% of the time. Even in areas of low sediment mobilisation frequency (&lt;5%), there are implications for bedform dynamics. The spatial patterns of the calculated sediment mobility are discussed in the context of current seabed geomorphology and the implications for both engineering and environmental considerations.</dcterms:abstract>
+        <dc:date>November 1, 2021</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0278434321002302</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>104574</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0278-4343">
+        <prism:volume>229</prism:volume>
+        <dc:title>Continental Shelf Research</dc:title>
+        <dc:identifier>DOI 10.1016/j.csr.2021.104574</dc:identifier>
+        <dcterms:alternative>Continental Shelf Research</dcterms:alternative>
+        <dc:identifier>ISSN 0278-4343</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://doi.org/10.1080/17445647.2020.1758811">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:null"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Coughlan</foaf:surname>
+                        <foaf:givenName>Mark</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Long</foaf:surname>
+                        <foaf:givenName>Mike</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Doherty</foaf:surname>
+                        <foaf:givenName>Paul</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Geological and geotechnical constraints in the Irish Sea for offshore renewable energy</dc:title>
+        <dcterms:abstract>ABSTRACT A 1:1,000,000 map of the Irish Sea, within the Irish Economic Exclusion Zone, is presented highlighting the spatial distribution of potential geological and geotechnical constraints to offshore wind energy development. In this mapping exercise we incorporated existing multibeam echosounder bathymetric and backscatter data collected by the Integrated Mapping for the Sustainable Development of Ireland?s Marine Resource programme. ArcGIS was used to interrogate the bathymetric data and produce maps for seabed morphological characteristics. Backscatter data and QTC Multiview derived sediment classification was used in conjunction with data from the literature to link sediment distribution with sediment transport pathways and to assess the possible impact on infrastructure. The result is a spatial constraints map, which may be used by developers, consultants and marine spatial planning authorities alike to help site projects and plan de-risking site investigations.</dcterms:abstract>
+        <dc:date>December 9, 2020</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://doi.org/10.1080/17445647.2020.1758811</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Publisher: Taylor &amp; Francis</dc:description>
+        <bib:pages>420-431</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:null">
+        <prism:volume>16</prism:volume>
+        <dc:title>Journal of Maps</dc:title>
+        <dc:identifier>DOI 10.1080/17445647.2020.1758811</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>null</dcterms:alternative>
+        <dc:identifier>ISSN null</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://doi.org/10.1144/qjegh2020-033">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1470-9236"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guinan</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McKeon</foaf:surname>
+                        <foaf:givenName>C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>O'Keeffe</foaf:surname>
+                        <foaf:givenName>E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Monteys</foaf:surname>
+                        <foaf:givenName>X.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sacchetti</foaf:surname>
+                        <foaf:givenName>F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Coughlan</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nic Aonghusa</foaf:surname>
+                        <foaf:givenName>C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>INFOMAR</dc:subject>
+        <dc:title>INFOMAR data supports offshore energy development and marine spatial planning in the Irish offshore via the EMODnet Geology portal</dc:title>
+        <dcterms:abstract>The characterization of the seafloor is a fundamental first step in informing resource management, marine spatial planning, conservation, fisheries, industry and research. Integrated Mapping for the Sustainable Development of Ireland's Marine Resource (INFOMAR), Ireland's national seabed mapping programme, delivers freely available, high-resolution seabed imagery derived from multibeam echosounder data in the Irish Exclusive Economic Zone. The European Union established the European Marine Observation and Data Network (EMODnet) Geology data portal, which provides harmonized broad-scale seabed substrate information for all European seas and confidence assessments of the information that underpins the geological interpretations. A multi-scale product has been produced using INFOMAR's high-resolution seabed substrate information at the 1:50 000 scale. As part of the Supporting Implementation of Maritime Spatial Planning in the Celtic Seas project, the EMODnet Geology seabed substrate data portal assisted in addressing the challenges associated with the implementation of the European Union's Marine Spatial Planning Directive. The seabed substrate data in the EMODnet Geology data portal were identified as a valuable tool for guiding the selection of sites for offshore wind farms in the Irish Sea and their subsequent characterization. This paper outlines the approach to delivering a multi-scale seabed substrate dataset for the Irish offshore and its applicability to marine spatial planning and the development of offshore energy resources.Thematic collection: This article is part of the Mapping the Geology and Topography of the European Seas (EMODnet) collection available at: https://www.lyellcollection.org/cc/EMODnet</dcterms:abstract>
+        <dc:date>September 9, 2020</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1144/qjegh2020-033</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-12</dcterms:dateSubmitted>
+        <bib:pages>qjegh2020-033</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1470-9236">
+        <prism:volume>54</prism:volume>
+        <dc:title>Quarterly Journal of Engineering Geology and Hydrogeology</dc:title>
+        <dc:identifier>DOI 10.1144/qjegh2020-033</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Quarterly Journal of Engineering Geology and Hydrogeology</dcterms:alternative>
+        <dc:identifier>ISSN 1470-9236</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://adgeo.copernicus.org/articles/54/55/2020/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1680-7359"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Peters</foaf:surname>
+                        <foaf:givenName>J. L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Butschek</foaf:surname>
+                        <foaf:givenName>F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>O'Connell</foaf:surname>
+                        <foaf:givenName>R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cummins</foaf:surname>
+                        <foaf:givenName>V.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Murphy</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wheeler</foaf:surname>
+                        <foaf:givenName>A. J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Geological seabed stability model for informing Irish offshore renewable energy opportunities</dc:title>
+        <dc:date>October 12, 2020</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://adgeo.copernicus.org/articles/54/55/2020/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Publisher: Copernicus Publications</dc:description>
+        <bib:pages>55-65</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1680-7359">
+        <prism:volume>54</prism:volume>
+        <dc:title>Adv. Geosci.</dc:title>
+        <dc:identifier>DOI 10.5194/adgeo-54-55-2020</dc:identifier>
+        <dcterms:alternative>Adv. Geosci.</dcterms:alternative>
+        <dc:identifier>ISSN 1680-7359</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://doi.org/10.1002/jqs.3189">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0267-8179"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tóth</foaf:surname>
+                        <foaf:givenName>Zsuzsanna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McCarron</foaf:surname>
+                        <foaf:givenName>Stephen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wheeler</foaf:surname>
+                        <foaf:givenName>Andrew J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wenau</foaf:surname>
+                        <foaf:givenName>Stefan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Davis</foaf:surname>
+                        <foaf:givenName>Stephen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lim</foaf:surname>
+                        <foaf:givenName>Aaron</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Spiess</foaf:surname>
+                        <foaf:givenName>Volkhard</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>British Irish Ice Sheet</dc:subject>
+        <dc:subject>ice limits</dc:subject>
+        <dc:subject>northern Celtic Sea</dc:subject>
+        <dc:subject>Quaternary stratigraphy</dc:subject>
+        <dc:subject>seismics</dc:subject>
+        <dc:title>Geomorphological and seismostratigraphic evidence for multidirectional polyphase glaciation of the northern Celtic Sea</dc:title>
+        <dcterms:abstract>ABSTRACT High-resolution seismic and bathymetric data offshore southeast Ireland and LIDaR data in County Waterford are presented that partially overlap previous studies. The observed Quaternary stratigraphic succession offshore southeast Ireland (between Dungarvan and Kilmore Quay) records a sequence of depositional and erosional events that supports regional glacial models derived from nearby coastal sediment stratigraphies and landforms. A regionally widespread, acoustically massive facies interpreted as the ?Irish Sea Till? infills an uneven, channelized bedrock surface overlying irregular mounds and deposits in bedrock lows that are probably earlier Pleistocene diamicts. The till is truncated and overlain by a thin, stratified facies, suggesting the development of a regional palaeolake following ice recession of the Irish Sea Ice Stream. A north?south oriented seabed ridge to the north is interpreted as an esker, representing southward flowing subglacial drainage associated with a restricted ice sheet advance of the Irish Ice Sheet onto the Celtic Sea shelf. Onshore topographic data reveal streamlined bedforms that corroborate a southerly advance of ice onto the shelf across County Waterford. The combined evidence supports previous palaeoglaciological models. Significantly, for the first time, this study defines a southern limit for a Late Midlandian Irish Ice Sheet advance onto the Celtic Sea shelf. ? 2020 John Wiley &amp; Sons, Ltd.</dcterms:abstract>
+        <dc:date>April 1, 2020</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1002/jqs.3189</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-07</dcterms:dateSubmitted>
+        <dc:description>Publisher: John Wiley &amp; Sons, Ltd</dc:description>
+        <bib:pages>465-478</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0267-8179">
+        <prism:volume>35</prism:volume>
+        <dc:title>Journal of Quaternary Science</dc:title>
+        <dc:identifier>DOI 10.1002/jqs.3189</dc:identifier>
+        <prism:number>3</prism:number>
+        <dcterms:alternative>Journal of Quaternary Science</dcterms:alternative>
+        <dc:identifier>ISSN 0267-8179</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://doi.org/10.1007/s00367-019-00569-z">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1432-1157"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Coughlan</foaf:surname>
+                        <foaf:givenName>Mark</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wheeler</foaf:surname>
+                        <foaf:givenName>Andrew J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dorschel</foaf:surname>
+                        <foaf:givenName>Boris</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Long</foaf:surname>
+                        <foaf:givenName>Mike</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Doherty</foaf:surname>
+                        <foaf:givenName>Paul</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mörz</foaf:surname>
+                        <foaf:givenName>Tobias</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Stratigraphic model of the Quaternary sediments of the Western Irish Sea Mud Belt from core, geotechnical and acoustic data</dc:title>
+        <dcterms:abstract>A new geotechno-stratigraphic model for Quaternary deposits in the Western Irish Sea Mud Belt area is presented. This area, located in the North Irish Sea, has been heavily influenced by the advance and retreat of the British and Irish Ice Sheet during the last glaciation and subsequent Holocene marine transgression. This study uses a synthesis of lithostratigraphy, geotechnical data (from in situ cone penetration testing) and seismic profiles to generate a stratigraphic framework describing the geometry, distribution and characteristics of Quaternary deposits in an area of the Western Irish Sea Mud Belt at increased resolution. Within a regional context, this stratigraphy is compared with other established offshore stratigraphies in the Irish Sea and terrestrial successions. Four stratigraphic units are identified consisting of a basal subglacial (lodgement) till (Unit 4) emplaced by the Irish Sea Ice Stream. Unit 4 overlies irregular bedrock and is overlain in turn by glaciomarine to glaciolacustrine, ice-proximal outwash and glaciomarine ice-proximal sand and sandy muds (Units 3 and 2 respectively; previously undifferentiated). A thick succession (up to 27 m) of Holocene marine muds (Unit 1) caps the sequence up to the contemporary seabed. Results show that these deposits, and their geotechnical properties, have significant implications for the anthropogenic use of the area, such as the development of offshore renewable energy infrastructure. Revealed are relatively thick (up to 30 m) weak, under-consolidated sediments at the surface and highly heterogeneous, often over-consolidated, sediments that have limited groundtruthing at depth. Furthermore, localised shallow gas is imaged on seismic profiles. The influence on the geotechnical properties of the sediments by this gas revealed no significant effect on shear strength values from cone penetration testing data, although it may have implications for the long-term behaviour of the sediments.</dcterms:abstract>
+        <dc:date>June 1, 2019</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1007/s00367-019-00569-z</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>223-237</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1432-1157">
+        <prism:volume>39</prism:volume>
+        <dc:title>Geo-Marine Letters</dc:title>
+        <dc:identifier>DOI 10.1007/s00367-019-00569-z</dc:identifier>
+        <prism:number>3</prism:number>
+        <dcterms:alternative>Geo-Marine Letters</dcterms:alternative>
+        <dc:identifier>ISSN 1432-1157</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S2213305415300060">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2213-3054"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Coughlan</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wheeler</foaf:surname>
+                        <foaf:givenName>A.J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dorschel</foaf:surname>
+                        <foaf:givenName>B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lordan</foaf:surname>
+                        <foaf:givenName>C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Boer</foaf:surname>
+                        <foaf:givenName>W.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gaever</foaf:surname>
+                        <foaf:givenName>P.van</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Haas</foaf:surname>
+                        <foaf:givenName>H.de</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mörz</foaf:surname>
+                        <foaf:givenName>T.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Irish Sea</dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Anthropocene</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Bioturbation</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Mud belt</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Radionuclides</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Trawling</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Record of anthropogenic impact on the Western Irish Sea mud belt</dc:title>
+        <dcterms:abstract>Six cores, geophysical data (multibeam bathymetry), surface grab samples and video photography were collected from the area of the Western Irish Sea Mud Belt (WISMB). These data were analysed to determine the radionuclide input from the Sellafield nuclear facility on the eastern (UK) seaboard of the Irish Sea, and subsequently to assess the influence of bottom trawling and bioturbation on the surface and near-surface sediments. Results show significant changes in the sedimentation and geochemical regime in the WISMB due to anthropogenic causes (bottom trawling and radionuclides derived from the power plant). These changes are consistent with the concept of the Anthropocene time period. Levels of anthropogenic radionuclides measured in two of the cores enabled construction of a chronology correlated with recorded values of discharge from the Sellafield facility. Excess 210Pb and the anthropogenic radionuclide 137Cs proved useful as stratigraphic marker tools. These radionuclide data also enabled quantification of the effects of trawling, which was visible on acoustic seabed maps. Bottom trawling has removed an estimated 20–50cm of the upper seabed.</dcterms:abstract>
+        <dc:date>March 1, 2015</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S2213305415300060</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>56-69</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2213-3054">
+        <prism:volume>9</prism:volume>
+        <dc:title>Anthropocene</dc:title>
+        <dc:identifier>DOI 10.1016/j.ancene.2015.06.001</dc:identifier>
+        <dcterms:alternative>Anthropocene</dcterms:alternative>
+        <dc:identifier>ISSN 2213-3054</dc:identifier>
+    </bib:Journal>
+</rdf:RDF>

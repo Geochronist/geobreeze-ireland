@@ -18,13 +18,14 @@ has_children: false
 
 ### Database
 
-Below is a collection of references in various format:
+The references to all papers below have been packaged in a collection that can be imported in a reference manager.  
+Download the collection:
 
-* Zotero:      [geobreeze.rdf](../res/reference-manager/geobreeze.rdf)
-* EndNote XML: [geobreeze.xml](../res/reference-manager/geobreeze.xml)
-* RIS:         [geobreeze.ris](../res/reference-manager/geobreeze.ris)
+* [geobreeze.rdf](../res/reference-manager/geobreeze.rdf) for Zotero
+* [geobreeze.xml](../res/reference-manager/geobreeze.xml) for EndNote (XML)
+* [geobreeze.ris](../res/reference-manager/geobreeze.ris) for a RIS file compatible with all reference managers
 
-### Reference manager
+### Recommended reference manager
 
 [Zotero](https://www.zotero.org/){:target="_blank"} is a free and open source reference manager ({FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software){:target="_blank"}) distributed under a [GNU GPLv3 license](https://en.wikipedia.org/wiki/GNU_General_Public_License#Copyleft){:target="_blank"}.
 

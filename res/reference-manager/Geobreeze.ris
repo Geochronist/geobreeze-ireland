@@ -1,0 +1,197 @@
+TY  - JOUR
+TI  - The Irish Sea bed load parting zone: Is it a mid-sea hydrodynamic phenomenon or a geological theoretical concept?
+AU  - Creane, Shauna
+AU  - O'Shea, Michael
+AU  - Coughlan, Mark
+AU  - Murphy, Jimmy
+T2  - Estuarine, Coastal and Shelf Science
+AB  - On tidally-dominated shelf seas, hydrodynamic flow exerts shear stress on the seabed, inducing sediment transport and seabed evolution. Net sediment transport pathways and associated bed load partings zones (the ‘head’ of sediment transport pathways) are important elements of this sediment dispersal process. A robust comprehension of these dynamics on a local and regional scale are crucial for a range of offshore activities, including the rapidly growing offshore renewable energy industry. Previous studies infer a bedload parting zone (BLP) in the central Irish Sea, yet this predominantly bedform-derived BLP remains to be fully supported by underlying hydrodynamics. This study reviews how sediment transport pathways in the Irish Sea are defined to date, investigates whether a hydrodynamic regime capable of supporting this inferred BLP exists, and if proven, aims to elucidate its origin. Tidal asymmetry indicators, derived from the phase and amplitude relationships of numerically modelled M₂ and M₄ tidal constituents, reveal the existence of a symmetrical tidal zone in the proximity of the inferred BLP. New numerically modelled residual tidal current and bed shear stress vectors reinforce the presence of this distinct tidal character change and further reveal strong opposing tidal flows extending from this region, thus supporting the presence of a tidal flow capable of producing divergent bedload patterns. Analysis of tidal propagation through the Irish Sea Basin concludes that the origin of the BLP is mainly attributed to the intersection of the north and south tidal fronts at an inclined angle due to Coriolis Forcing and coastline interactions. Minor factors impacting the shape and location of the BLP are the change in tidal character at (a) abrupt bathymetry changes, (b) headlands and intricate coastline topography, and (c) large-scale constrictions. Further investigation into localised morphodynamics is needed. These findings are highly valuable to efficient marine spatial planning, underpinning a movement towards a climate resilient economy. The integrated approach used in this body of work can be applied to tidally-dominated continental shelves beyond the Irish Sea.
+DA  - 2021/12/05/
+PY  - 2021
+DO  - 10.1016/j.ecss.2021.107651
+VL  - 263
+SP  - 107651
+J2  - Estuarine, Coastal and Shelf Science
+SN  - 0272-7714
+UR  - https://www.sciencedirect.com/science/article/pii/S027277142100500X
+KW  - Bed load parting
+KW  - Hydrodynamics
+KW  - Irish Sea
+KW  - Modelling
+KW  - Morphodynamics
+KW  - Sediment transport
+ER  - 
+
+TY  - JOUR
+TI  - A new seabed mobility index for the Irish Sea: Modelling seabed shear stress and classifying sediment mobilisation to help predict erosion, deposition, and sediment distribution
+AU  - Coughlan, Mark
+AU  - Guerrini, Marco
+AU  - Creane, Shauna
+AU  - O'Shea, Michael
+AU  - Ward, Sophie L.
+AU  - Van Landeghem, Katrien J.J.
+AU  - Murphy, Jimmy
+AU  - Doherty, Paul
+T2  - Continental Shelf Research
+AB  - The seafloor is increasingly being used for siting renewable energy and telecommunication infrastructure as well as supporting key fisheries and biodiversity. Understanding seabed stability and sediment dynamics is, therefore, a fundamental need for offshore engineering and geoscience and biological studies. In this study we aim to quantify the levels of sediment mobility in the Irish Sea: an area of increasing socio-economic interest and subsequent seabed pressures. The temporal and spatial interaction between bathymetry, hydrodynamics and seabed sediments leads to a complex pattern of erosion, bedload transport and deposition which can affect seabed infrastructure and modify habitats. Information on current and wave conditions were obtained from numerical modelling to assess their role in generating seabed hydrodynamic conditions. These outputs were coupled with observed seabed grain-size data to predict the exceedance of sediment mobility thresholds by bed shear stress values for a period of one year according to empirical formulae. Exceedance frequency values were used to calculate a number of sediment disturbance and mobility indexes to allow for a robust assessment of sediment dynamics. Sediment in the Irish sea, on average, is being mobilised 35% of the time during the year, with 35% of the spatial area studied being mobilised over 50% of the time. Even in areas of low sediment mobilisation frequency (<5%), there are implications for bedform dynamics. The spatial patterns of the calculated sediment mobility are discussed in the context of current seabed geomorphology and the implications for both engineering and environmental considerations.
+DA  - 2021/11/01/
+PY  - 2021
+DO  - 10.1016/j.csr.2021.104574
+VL  - 229
+SP  - 104574
+J2  - Continental Shelf Research
+SN  - 0278-4343
+UR  - https://www.sciencedirect.com/science/article/pii/S0278434321002302
+KW  - Irish Sea
+KW  - Modelling
+KW  - Classification
+KW  - Disturbance
+KW  - Irish sea
+KW  - Mobilisation
+KW  - Sediment
+ER  - 
+
+TY  - JOUR
+TI  - Geological and geotechnical constraints in the Irish Sea for offshore renewable energy
+AU  - Coughlan, Mark
+AU  - Long, Mike
+AU  - Doherty, Paul
+T2  - Journal of Maps
+AB  - ABSTRACT A 1:1,000,000 map of the Irish Sea, within the Irish Economic Exclusion Zone, is presented highlighting the spatial distribution of potential geological and geotechnical constraints to offshore wind energy development. In this mapping exercise we incorporated existing multibeam echosounder bathymetric and backscatter data collected by the Integrated Mapping for the Sustainable Development of Ireland?s Marine Resource programme. ArcGIS was used to interrogate the bathymetric data and produce maps for seabed morphological characteristics. Backscatter data and QTC Multiview derived sediment classification was used in conjunction with data from the literature to link sediment distribution with sediment transport pathways and to assess the possible impact on infrastructure. The result is a spatial constraints map, which may be used by developers, consultants and marine spatial planning authorities alike to help site projects and plan de-risking site investigations.
+DA  - 2020/12/09/
+PY  - 2020
+DO  - 10.1080/17445647.2020.1758811
+VL  - 16
+IS  - 2
+SP  - 420
+EP  - 431
+J2  - null
+SN  - null
+UR  - https://doi.org/10.1080/17445647.2020.1758811
+ER  - 
+
+TY  - JOUR
+TI  - INFOMAR data supports offshore energy development and marine spatial planning in the Irish offshore via the EMODnet Geology portal
+AU  - Guinan, J.
+AU  - McKeon, C.
+AU  - O'Keeffe, E.
+AU  - Monteys, X.
+AU  - Sacchetti, F.
+AU  - Coughlan, M.
+AU  - Nic Aonghusa, C.
+T2  - Quarterly Journal of Engineering Geology and Hydrogeology
+AB  - The characterization of the seafloor is a fundamental first step in informing resource management, marine spatial planning, conservation, fisheries, industry and research. Integrated Mapping for the Sustainable Development of Ireland's Marine Resource (INFOMAR), Ireland's national seabed mapping programme, delivers freely available, high-resolution seabed imagery derived from multibeam echosounder data in the Irish Exclusive Economic Zone. The European Union established the European Marine Observation and Data Network (EMODnet) Geology data portal, which provides harmonized broad-scale seabed substrate information for all European seas and confidence assessments of the information that underpins the geological interpretations. A multi-scale product has been produced using INFOMAR's high-resolution seabed substrate information at the 1:50 000 scale. As part of the Supporting Implementation of Maritime Spatial Planning in the Celtic Seas project, the EMODnet Geology seabed substrate data portal assisted in addressing the challenges associated with the implementation of the European Union's Marine Spatial Planning Directive. The seabed substrate data in the EMODnet Geology data portal were identified as a valuable tool for guiding the selection of sites for offshore wind farms in the Irish Sea and their subsequent characterization. This paper outlines the approach to delivering a multi-scale seabed substrate dataset for the Irish offshore and its applicability to marine spatial planning and the development of offshore energy resources.Thematic collection: This article is part of the Mapping the Geology and Topography of the European Seas (EMODnet) collection available at: https://www.lyellcollection.org/cc/EMODnet
+DA  - 2020/09/09/
+PY  - 2020
+DO  - 10.1144/qjegh2020-033
+VL  - 54
+IS  - 1
+SP  - qjegh2020
+EP  - 033
+J2  - Quarterly Journal of Engineering Geology and Hydrogeology
+SN  - 1470-9236
+UR  - https://doi.org/10.1144/qjegh2020-033
+Y2  - 2021/07/12/
+KW  - INFOMAR
+ER  - 
+
+TY  - JOUR
+TI  - Geological seabed stability model for informing Irish offshore renewable energy opportunities
+AU  - Peters, J. L.
+AU  - Butschek, F.
+AU  - O'Connell, R.
+AU  - Cummins, V.
+AU  - Murphy, J.
+AU  - Wheeler, A. J.
+T2  - Adv. Geosci.
+DA  - 2020/10/12/
+PY  - 2020
+DO  - 10.5194/adgeo-54-55-2020
+VL  - 54
+SP  - 55
+EP  - 65
+J2  - Adv. Geosci.
+SN  - 1680-7359
+UR  - https://adgeo.copernicus.org/articles/54/55/2020/
+ER  - 
+
+TY  - JOUR
+TI  - Geomorphological and seismostratigraphic evidence for multidirectional polyphase glaciation of the northern Celtic Sea
+AU  - Tóth, Zsuzsanna
+AU  - McCarron, Stephen
+AU  - Wheeler, Andrew J.
+AU  - Wenau, Stefan
+AU  - Davis, Stephen
+AU  - Lim, Aaron
+AU  - Spiess, Volkhard
+T2  - Journal of Quaternary Science
+AB  - ABSTRACT High-resolution seismic and bathymetric data offshore southeast Ireland and LIDaR data in County Waterford are presented that partially overlap previous studies. The observed Quaternary stratigraphic succession offshore southeast Ireland (between Dungarvan and Kilmore Quay) records a sequence of depositional and erosional events that supports regional glacial models derived from nearby coastal sediment stratigraphies and landforms. A regionally widespread, acoustically massive facies interpreted as the ?Irish Sea Till? infills an uneven, channelized bedrock surface overlying irregular mounds and deposits in bedrock lows that are probably earlier Pleistocene diamicts. The till is truncated and overlain by a thin, stratified facies, suggesting the development of a regional palaeolake following ice recession of the Irish Sea Ice Stream. A north?south oriented seabed ridge to the north is interpreted as an esker, representing southward flowing subglacial drainage associated with a restricted ice sheet advance of the Irish Ice Sheet onto the Celtic Sea shelf. Onshore topographic data reveal streamlined bedforms that corroborate a southerly advance of ice onto the shelf across County Waterford. The combined evidence supports previous palaeoglaciological models. Significantly, for the first time, this study defines a southern limit for a Late Midlandian Irish Ice Sheet advance onto the Celtic Sea shelf. ? 2020 John Wiley & Sons, Ltd.
+DA  - 2020/04/01/
+PY  - 2020
+DO  - 10.1002/jqs.3189
+VL  - 35
+IS  - 3
+SP  - 465
+EP  - 478
+J2  - Journal of Quaternary Science
+SN  - 0267-8179
+UR  - https://doi.org/10.1002/jqs.3189
+Y2  - 2021/12/07/
+KW  - British Irish Ice Sheet
+KW  - ice limits
+KW  - northern Celtic Sea
+KW  - Quaternary stratigraphy
+KW  - seismics
+ER  - 
+
+TY  - JOUR
+TI  - Stratigraphic model of the Quaternary sediments of the Western Irish Sea Mud Belt from core, geotechnical and acoustic data
+AU  - Coughlan, Mark
+AU  - Wheeler, Andrew J.
+AU  - Dorschel, Boris
+AU  - Long, Mike
+AU  - Doherty, Paul
+AU  - Mörz, Tobias
+T2  - Geo-Marine Letters
+AB  - A new geotechno-stratigraphic model for Quaternary deposits in the Western Irish Sea Mud Belt area is presented. This area, located in the North Irish Sea, has been heavily influenced by the advance and retreat of the British and Irish Ice Sheet during the last glaciation and subsequent Holocene marine transgression. This study uses a synthesis of lithostratigraphy, geotechnical data (from in situ cone penetration testing) and seismic profiles to generate a stratigraphic framework describing the geometry, distribution and characteristics of Quaternary deposits in an area of the Western Irish Sea Mud Belt at increased resolution. Within a regional context, this stratigraphy is compared with other established offshore stratigraphies in the Irish Sea and terrestrial successions. Four stratigraphic units are identified consisting of a basal subglacial (lodgement) till (Unit 4) emplaced by the Irish Sea Ice Stream. Unit 4 overlies irregular bedrock and is overlain in turn by glaciomarine to glaciolacustrine, ice-proximal outwash and glaciomarine ice-proximal sand and sandy muds (Units 3 and 2 respectively; previously undifferentiated). A thick succession (up to 27 m) of Holocene marine muds (Unit 1) caps the sequence up to the contemporary seabed. Results show that these deposits, and their geotechnical properties, have significant implications for the anthropogenic use of the area, such as the development of offshore renewable energy infrastructure. Revealed are relatively thick (up to 30 m) weak, under-consolidated sediments at the surface and highly heterogeneous, often over-consolidated, sediments that have limited groundtruthing at depth. Furthermore, localised shallow gas is imaged on seismic profiles. The influence on the geotechnical properties of the sediments by this gas revealed no significant effect on shear strength values from cone penetration testing data, although it may have implications for the long-term behaviour of the sediments.
+DA  - 2019/06/01/
+PY  - 2019
+DO  - 10.1007/s00367-019-00569-z
+VL  - 39
+IS  - 3
+SP  - 223
+EP  - 237
+J2  - Geo-Marine Letters
+SN  - 1432-1157
+UR  - https://doi.org/10.1007/s00367-019-00569-z
+ER  - 
+
+TY  - JOUR
+TI  - Record of anthropogenic impact on the Western Irish Sea mud belt
+AU  - Coughlan, M.
+AU  - Wheeler, A.J.
+AU  - Dorschel, B.
+AU  - Lordan, C.
+AU  - Boer, W.
+AU  - Gaever, P.van
+AU  - Haas, H.de
+AU  - Mörz, T.
+T2  - Anthropocene
+AB  - Six cores, geophysical data (multibeam bathymetry), surface grab samples and video photography were collected from the area of the Western Irish Sea Mud Belt (WISMB). These data were analysed to determine the radionuclide input from the Sellafield nuclear facility on the eastern (UK) seaboard of the Irish Sea, and subsequently to assess the influence of bottom trawling and bioturbation on the surface and near-surface sediments. Results show significant changes in the sedimentation and geochemical regime in the WISMB due to anthropogenic causes (bottom trawling and radionuclides derived from the power plant). These changes are consistent with the concept of the Anthropocene time period. Levels of anthropogenic radionuclides measured in two of the cores enabled construction of a chronology correlated with recorded values of discharge from the Sellafield facility. Excess 210Pb and the anthropogenic radionuclide 137Cs proved useful as stratigraphic marker tools. These radionuclide data also enabled quantification of the effects of trawling, which was visible on acoustic seabed maps. Bottom trawling has removed an estimated 20–50cm of the upper seabed.
+DA  - 2015/03/01/
+PY  - 2015
+DO  - 10.1016/j.ancene.2015.06.001
+VL  - 9
+SP  - 56
+EP  - 69
+J2  - Anthropocene
+SN  - 2213-3054
+UR  - https://www.sciencedirect.com/science/article/pii/S2213305415300060
+KW  - Irish Sea
+KW  - Anthropocene
+KW  - Bioturbation
+KW  - Mud belt
+KW  - Radionuclides
+KW  - Trawling
+ER  - 
+

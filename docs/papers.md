@@ -18,6 +18,12 @@ has_children: false
 
 ### Database
 
+Below is a collection of references in various format:
+
+* Zotero:      geobreeze.rdf
+* EndNote XML: geobreeze.xml
+* RIS:         geobreeze.rif
+
 ### Reference manager
 
 [Zotero](https://www.zotero.org/){:target="_blank"} is a free and open source reference manager ({FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software){:target="_blank"}) distributed under a [GNU GPLv3 license](https://en.wikipedia.org/wiki/GNU_General_Public_License#Copyleft){:target="_blank"}.

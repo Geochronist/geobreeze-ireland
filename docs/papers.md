@@ -20,9 +20,9 @@ has_children: false
 
 Below is a collection of references in various format:
 
-* Zotero:      geobreeze.rdf
-* EndNote XML: geobreeze.xml
-* RIS:         geobreeze.rif
+* Zotero:      [geobreeze.rdf](../res/reference-manager/geobreeze.rdf)
+* EndNote XML: [geobreeze.xml](../res/reference-manager/geobreeze.xml)
+* RIS:         [geobreeze.ris](../res/reference-manager/geobreeze.ris)
 
 ### Reference manager
 

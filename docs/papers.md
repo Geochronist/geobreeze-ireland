@@ -14,6 +14,16 @@ has_children: false
 
 ---
 
+## Reference database (for reference manager)
+
+### Database
+
+### Reference manager
+
+[Zotero](https://www.zotero.org/){:target="_blank"} is a free and open source reference manager ({FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software){:target="_blank"}) distributed under a [GNU GPLv3 license](https://en.wikipedia.org/wiki/GNU_General_Public_License#Copyleft){:target="_blank"}.
+
+---
+
 ## 2021
 
 * [Creane *et al.*, 2021](https://www.sciencedirect.com/science/article/pii/S027277142100500X){:target="_blank"}

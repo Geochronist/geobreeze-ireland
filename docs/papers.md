@@ -82,3 +82,9 @@ Download the collection:
   * *Anthropocene* **9**, 56-59 [10.1016/j.ancene.2015.06.001](https://doi.org/10.1016/j.ancene.2015.06.001){:target="_blank"}
 
 ---
+
+## 2009
+
+* [Van Landeghem *et al.*, 2009](https://www.sciencedirect.com/science/article/abs/pii/S0278434309001873){:target="_blank"} 
+  * Post-glacial sediment dynamics in the Irish Sea and sediment wave morphology: Data–model comparisons
+  * *Continental Shelf Research* **29-14**, 1723-1736 [10.1016/j.csr.2009.05.014](https://doi.org/10.1016/j.csr.2009.05.014){:target="_blank"}

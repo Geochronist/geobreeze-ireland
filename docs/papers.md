@@ -99,6 +99,14 @@ Download the collection:
 
 ---
 
+## 1971
+
+* [Dobson et al., 1971](https://www.sciencedirect.com/science/article/pii/0025322771900831){:target="_blank"} 
+  * The sediment on the floor of the southern Irish Sea
+  * *Marine Geology* **11-1**, 27-69 [10.1016/0025-3227(71)90083-1](https://doi.org/10.1016/0025-3227(71)90083-1){:target="_blank"}
+
+---
+
 ## 1964
 
 * [Belderson, 1964](https://www.sciencedirect.com/science/article/pii/0025322764900325){:target="_blank"} 

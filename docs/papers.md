@@ -88,3 +88,21 @@ Download the collection:
 * [Van Landeghem *et al.*, 2009](https://www.sciencedirect.com/science/article/abs/pii/S0278434309001873){:target="_blank"} 
   * Post-glacial sediment dynamics in the Irish Sea and sediment wave morphology: Data–model comparisons
   * *Continental Shelf Research* **29-14**, 1723-1736 [10.1016/j.csr.2009.05.014](https://doi.org/10.1016/j.csr.2009.05.014){:target="_blank"}
+
+---
+
+## 1979
+
+* [Pingree & Griffiths, 1979](https://www.cambridge.org/core/journals/journal-of-the-marine-biological-association-of-the-united-kingdom/article/abs/sand-transport-paths-around-the-british-isles-resulting-from-m2-and-m4tidal-interactions/EB0F6B51EA152B6179B51BB819B1BC55){:target="_blank"} 
+  * Sand transport paths around the British Isles resulting from M2 and M4tidal interactions
+  * *Journal of the Marine Biological Association of the United Kingdom* **59-2**, 497-513 [10.1017/S0025315400042806](https://doi.org/10.1017/S0025315400042806){:target="_blank"}
+
+---
+
+## 1964
+
+* [Belderson, 1964](https://www.sciencedirect.com/science/article/pii/0025322764900325){:target="_blank"} 
+  * Holocene sedimentation in the western half of the Irish Sea
+  * *Marine Geology* **2-1,2**, 147-163 [10.1016/0025-3227(64)90032-5](https://doi.org/10.1016/0025-3227(64)90032-5){:target="_blank"}
+
+

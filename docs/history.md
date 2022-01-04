@@ -14,12 +14,12 @@ has_children: false
 
 ---
 
-* June 2019 Publication of the "Ireland Climate Action Plan"
-  *  Target 3.5 GW of offshore wind capacity by 2030
+* *June 2019* **Ireland Climate Action Plan**
+  * Target 3.5 GW of offshore wind capacity by 2030
  
-* Nomvember 2019 NMPF National Marine Planning Framework
+* *November 2019* **National Marine Planning Framework**
 
-* June 2020: Programme for Government
+* *June 2020* **Programme for Government**
   * Target 5 GW of offshore wind capacity by 2030
 
 ---

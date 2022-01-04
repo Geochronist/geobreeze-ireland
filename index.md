@@ -11,11 +11,15 @@ has_children: false
 
 Irish offshore wind energy resources.
 
-1. TOC
-{:toc}
+1. [Timeline](docs/history.md)
+1. Resources
+  * [Scientific papers](docs/papers.md)
+  * [Reports](docs/reports.md)
+1. Lists
+  * [Wind projects](offshore-wind-projects.md)
+  * [Organizations](docs/actors.md)
+  * [Fleet](fleet.md)
 
 ---
 
----
-
-Next: [History >>](docs/history.md)
+Next: [Timeline >>](docs/history.md)

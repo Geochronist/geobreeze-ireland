@@ -16,8 +16,13 @@ has_children: false
 
 ## 2020
 
+* Offshore Wind Consultation to Inform a Grid Development Policy for Offshore Wind in Ireland
+  * Author: Government of Ireland
+  * Date: June 2020
+  * [Download](https://assets.gov.ie/75917/4774a90c-c99e-432e-b27e-15761a37adec.pdf){:target="_blank"}  
+
 * A review of the Irish Offshore Renewable Energy (ORE) Sector's data and information requirements in the context of the INFOMAR Seabed Mapping Programme - Review Report
-  * Authot: Gavin and Doherty Geosolutions Ltd.
+  * Author: Gavin and Doherty Geosolutions Ltd.
   * [Download](https://www.infomar.ie/sites/default/files/pdfs/GDG%20INFOMAR%20ORE%20Review%20Report.pdf){:target="_blank"}  
 
 ## 2015

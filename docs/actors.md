@@ -26,11 +26,19 @@ has_children: false
 
 ## Companies
 
-### Inis Offshore Wind
+### Developpers
+
+#### Inis Offshore Wind
 
 * Website: [https://inisoffshorewind.ie/](https://inisoffshorewind.ie/){:target="_blank"}
 * Projects: 5
   * Inis West 1 & 2
   * Inis East 1 & 2
   * Inis South
+
+### Service companies
+
+#### Green Rebel
+
+* Website: [https://www.greenrebel.ie](https://www.greenrebel.ie){:target="_blank"}
  
